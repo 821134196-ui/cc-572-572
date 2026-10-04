@@ -8,6 +8,9 @@ target/
 dist/
 build/
 *.log
+backend/lab.db
+uploads/*
+!uploads/.gitkeep
 .claude/
 .cc-workbench/
 轨迹/
